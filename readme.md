@@ -1,6 +1,6 @@
 # Three.js Journey
 
-Le site est disponible en ligne ici : [modifiedMaterials](https://modified-materials-test-nxnhv8z8w-golushis-projects.vercel.app/).
+Le site est disponible en ligne ici : [modifiedMaterials](https://modified-materials-test.vercel.app/).
 
 Technologies utilisées
 
